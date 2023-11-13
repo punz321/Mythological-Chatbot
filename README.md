@@ -3,6 +3,8 @@ A Chatbot for asking spiritual questions
 
 AI-powered chatbots offer a promising new approach to exploring and disseminating the wisdom of the Bhagavad Gita. By providing a personalized, interactive, and immersive learning experience, chatbots can help individuals to deepen their understanding of this timeless scripture and apply its insights to their own lives.
 
+This chatbot allows you to ask questeions related to the holy scriptures of Bhagawad Gita and answers them taking that as the context, and answers in a spiritual manner.
+
 # Dataset Description
 The dataset used in this research comprises the entire **Bhagavad Gita**, translated into English. The text is organized into 18 chapters, each containing verses, or 'shlokas,' totaling approximately 700 shlokas. To equip our AI chatbot with the profound wisdom encapsulated within this ancient scripture, we embarked on a meticulous process. A **question-answer dataset** was carefully built from the verses of the Bhagavad Gita to aid in the training of our AI chatbot. This dataset encompasses a comprehensive array of queries that span diverse philosophical and spiritual topics explored within the scripture. By fine-tuning the AI chatbot using this meticulously curated dataset, we equipped it with the requisite knowledge and semantic understanding to yield precise and contextually relevant responses to user queries.
 
