@@ -6,7 +6,7 @@ from simplet5 import SimpleT5
 model = SimpleT5()
 # model.from_pretrained(model_type="t5", model_name="t5-base")
 
-model.load_model("t5","/home/adarsh/IMD/backend/simplet5-epoch-6-train-loss-1.0673-val-loss-0.5636/", use_gpu=False)
+model.load_model("t5","/path/to/model", use_gpu=False)
 
 
 app = FastAPI()
